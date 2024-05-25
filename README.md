@@ -43,7 +43,7 @@
 [![TechnoHacks](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=TechnoHacks&theme=tokyonight)](https://github.com/yashkumar161/TechnoHacks)
 [![CODSOFT](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=CODSOFT&theme=tokyonight)](https://github.com/yashkumar161/CODSOFT)
 [![Tech-A-Intern](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=TAIRP&theme=tokyonight)](https://github.com/yashkumar161/TAIRP)
-[![CodeAlpha](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=CodeAlpha&theme=tokyonight)](https://github.com/yashkumar161/CodeAlpha)
-[![Cognifyz](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=Cognifyz&theme=tokyonight)](https://github.com/yashkumar161/Cognifyz)
+[![CodeAlpha](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=CodeAlph&theme=tokyonight)](https://github.com/yashkumar161/CodeAlph)
+[![Cognifyz](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=Cognifz&theme=tokyonight)](https://github.com/yashkumar161/Cognifz)
 [![InternPe](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=InternPe&theme=tokyonight)](https://github.com/yashkumar161/InternPe)
 </div>
