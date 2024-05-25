@@ -29,8 +29,7 @@
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <div align="center">
    
-<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> My Tech Stacks! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<p align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> My Tech Stacks! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </p>
 
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,docker,dotnet,eclipse,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,gulp,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,postgres,powershell,py,pytorch,qt,react,redux,regex,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,unreal,vercel,visualstudio,vite,vscode,vue,webflow,webpack&perline=15)
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
@@ -38,13 +37,12 @@
 </div>
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumar161&&theme=tokyonight" alt="YashKumar161" /></p>
-
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+
 <div align="center">
   
-[![Muhammad Fiaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashkumar161&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/yashkumar161)
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashkumar161&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/yashkumar161)
 
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
