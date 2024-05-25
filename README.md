@@ -45,16 +45,8 @@
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <div align="center">
   
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=portfolio&theme=tokyonight)](https://github.com/muhammad-fiaz/portfolio) &nbsp;
+[![About Me](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=portfolio&theme=tokyonight)](https://github.com/muhammad-fiaz/portfolio) &nbsp;
 [![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=muhammad-fiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/muhammad-fiaz) &nbsp;
 [![logly](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=logly&theme=tokyonight)](https://github.com/muhammad-fiaz/logly) &nbsp;
 [![flarezchat](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=flarezchat&theme=tokyonight)](https://github.com/muhammad-fiaz/flarezchat) &nbsp;
-[![logly-rs](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=logly-rs&theme=tokyonight)](https://github.com/muhammad-fiaz/logly-rs) &nbsp;
-[![QuizApp-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=QuizApp-Flutter&theme=tokyonight)](https://github.com/muhammad-fiaz/QuizApp-Flutter) &nbsp;
-[![WhatsApp-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=WhatsApp-Flutter&theme=tokyonight)](https://github.com/muhammad-fiaz/WhatsApp-Flutter) &nbsp;
-[![FireAI](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=FireAI&theme=tokyonight)](https://github.com/muhammad-fiaz/FireAI) &nbsp;
-[![FZPlayer](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=FZPlayer&theme=tokyonight)](https://github.com/muhammad-fiaz/FZPlayer)
-[![mCloudApp](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=mCloudApp&theme=tokyonight)](https://github.com/muhammad-fiaz/mCloudApp)
-[![projects](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=projects&theme=tokyonight)](https://github.com/muhammad-fiaz/Projects)
-
 </div>
