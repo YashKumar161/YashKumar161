@@ -40,8 +40,10 @@
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <div align="center">
   
-[![About Me](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=portfolio&theme=tokyonight)](https://github.com/muhammad-fiaz/portfolio)
-[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=muhammad-fiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/muhammad-fiaz)
-[![logly](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=logly&theme=tokyonight)](https://github.com/muhammad-fiaz/logly)
-[![flarezchat](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=flarezchat&theme=tokyonight)](https://github.com/muhammad-fiaz/flarezchat)
+[![TechnoHacks](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=TechnoHacks&theme=tokyonight)](https://github.com/yashkumar161/TechnoHacks)
+[![CODSOFT](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=CODSOFT&theme=tokyonight)](https://github.com/yashkumar161/CODSOFT)
+[![Tech-A-Intern](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=TAIRP&theme=tokyonight)](https://github.com/yashkumar161/TAIRP)
+[![CodeAlpha](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=CodeAlpha&theme=tokyonight)](https://github.com/yashkumar161/CodeAlpha)
+[![InternPe](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=InternPe&theme=tokyonight)](https://github.com/yashkumar161/InternPe)
+[![Cognifyz](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=Cognifyz&theme=tokyonight)](https://github.com/yashkumar161/Cognifyz)
 </div>
