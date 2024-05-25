@@ -21,11 +21,6 @@
 
 - ⚡ Fun fact **Toxic for Haters.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-kumar-talan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-kumar-talan" height="30" width="40" /></a>
-</p>
-
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <div align="center">
 <h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> My Tech Stacks! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
