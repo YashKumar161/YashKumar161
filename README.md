@@ -1,7 +1,10 @@
 [![MasterHead](https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYFPJk7-GYKgjAK9AJBlP9zbyxlFdGFUJb_IUFA2GuDDPaMCd1RYahRztwpFJYD_H-hZkSJ736JoMo2-Uz-51WrRryNtT23b-M=w2940-h1524-rw-v1)](https://github.com/yashkumar161)
 
 <h1 align="center">Hi 👋, I'm Yash Kumar</h1>
-<h3 align="center">Passionate Learner in Java, Python, Machine Learning, and Web Development</h3>
+<div align="center">
+<h3 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> Passionate Learner in Java, Python, Machine Learning, and Web Development <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h3>
+</div>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/pd4Fcb6/side.gif" style="border-radius: 8%;">
 
@@ -29,9 +32,14 @@
 </div>
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<div align="center">
+<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> My Streak & Stats! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumar161&&theme=tokyonight" alt="YashKumar161" /></p>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
+
+<div align="center">
+<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> My Activity Graph! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
 <div align="center">
   
 [![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashkumar161&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/yashkumar161)
@@ -39,6 +47,9 @@
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <div align="center">
+
+<div align="center">
+<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> My Internships! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/></h2>
   
 [![TechnoHacks](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=TechnoHacks&theme=tokyonight)](https://github.com/yashkumar161/TechnoHacks)
 [![CODSOFT](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=CODSOFT&theme=tokyonight)](https://github.com/yashkumar161/CODSOFT)
