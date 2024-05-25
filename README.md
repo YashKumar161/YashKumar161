@@ -44,6 +44,6 @@
 [![CODSOFT](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=CODSOFT&theme=tokyonight)](https://github.com/yashkumar161/CODSOFT)
 [![Tech-A-Intern](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=TAIRP&theme=tokyonight)](https://github.com/yashkumar161/TAIRP)
 [![CodeAlpha](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=CodeAlpha&theme=tokyonight)](https://github.com/yashkumar161/CodeAlpha)
-[![InternPe](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=InternPe&theme=tokyonight)](https://github.com/yashkumar161/InternPe)
 [![Cognifyz](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=Cognifyz&theme=tokyonight)](https://github.com/yashkumar161/Cognifyz)
+[![InternPe](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=InternPe&theme=tokyonight)](https://github.com/yashkumar161/InternPe)
 </div>
