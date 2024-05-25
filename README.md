@@ -1,8 +1,8 @@
 <div align="center">
   
-[![MasterHead](https://private-user-images.githubusercontent.com/75434191/274608182-68ba38fe-129a-4d85-be33-62eb4ba50c05.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY2MTU2MDAsIm5iZiI6MTcxNjYxNTMwMCwicGF0aCI6Ii83NTQzNDE5MS8yNzQ2MDgxODItNjhiYTM4ZmUtMTI5YS00ZDg1LWJlMzMtNjJlYjRiYTUwYzA1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI1VDA1MzUwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5YTU3NzE4MWIzMWQ1OWFkZWM5MDczNTJkYTNkZDY4NTdjMWM5MzcxYzM2NWViM2JmYzA4YzQ2MDgzYmNkZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.W8cfMfNcSdZxnVgeLgfgkNWx3SNE0dtNMJmLTpqG3LI)](https://github.com/yashkumar161)
+[![MasterHead](https://i.ibb.co/mv51DB9/274608182-68ba38fe-129a-4d85-be33-62eb4ba50c05.png)](https://github.com/yashkumar161)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7C700&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Yash+Kumar.+Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7C700&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Yash+Kumar.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h3 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> Passionate Learner in Java, Python, Machine Learning, and Web Development <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h3>
 </div>
