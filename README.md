@@ -51,7 +51,6 @@
 [![TechnoHacks](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=TechnoHacks&theme=tokyonight)](https://github.com/yashkumar161/TechnoHacks)
 [![CODSOFT](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=CODSOFT&theme=tokyonight)](https://github.com/yashkumar161/CODSOFT)
 [![Tech-A-Intern](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=TAIRP&theme=tokyonight)](https://github.com/yashkumar161/TAIRP)
-[![CodeAlpha](https://github-readme-stats.vercel.app/api/pin/?username=yashkumar161&repo=CodeAlpha&theme=tokyonight)](https://github.com/yashkumar161/CodeAlpha)
 </div>
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
